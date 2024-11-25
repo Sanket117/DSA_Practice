@@ -1,1 +1,1 @@
-## This Repository is just for my juerny towords DSA 
+## This Repository is just for my journey towords DSA 
