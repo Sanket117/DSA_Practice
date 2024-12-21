@@ -11,3 +11,7 @@ first.next = second
 second.next = third
 head = first
 print(first.next,second.next,head)
+
+while(head!=None):
+    print(head.data)
+    head = head.next
